@@ -1,0 +1,15 @@
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4\Task002_IsTriange\bin\Debug\net6.0\Task002_IsTriange.exe
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4\Task002_IsTriange\bin\Debug\net6.0\Task002_IsTriange.deps.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4\Task002_IsTriange\bin\Debug\net6.0\Task002_IsTriange.runtimeconfig.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4\Task002_IsTriange\bin\Debug\net6.0\Task002_IsTriange.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4\Task002_IsTriange\bin\Debug\net6.0\Task002_IsTriange.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4\Task002_IsTriange\obj\Debug\net6.0\Task002_IsTriange.csproj.AssemblyReference.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4\Task002_IsTriange\obj\Debug\net6.0\Task002_IsTriange.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4\Task002_IsTriange\obj\Debug\net6.0\Task002_IsTriange.AssemblyInfoInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4\Task002_IsTriange\obj\Debug\net6.0\Task002_IsTriange.AssemblyInfo.cs
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4\Task002_IsTriange\obj\Debug\net6.0\Task002_IsTriange.csproj.CoreCompileInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4\Task002_IsTriange\obj\Debug\net6.0\Task002_IsTriange.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4\Task002_IsTriange\obj\Debug\net6.0\refint\Task002_IsTriange.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4\Task002_IsTriange\obj\Debug\net6.0\Task002_IsTriange.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4\Task002_IsTriange\obj\Debug\net6.0\Task002_IsTriange.genruntimeconfig.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4\Task002_IsTriange\obj\Debug\net6.0\ref\Task002_IsTriange.dll
