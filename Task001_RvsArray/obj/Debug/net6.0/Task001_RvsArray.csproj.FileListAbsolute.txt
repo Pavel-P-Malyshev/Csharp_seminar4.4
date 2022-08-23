@@ -1,0 +1,15 @@
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4\Task001_RvsArray\bin\Debug\net6.0\Task001_RvsArray.exe
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4\Task001_RvsArray\bin\Debug\net6.0\Task001_RvsArray.deps.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4\Task001_RvsArray\bin\Debug\net6.0\Task001_RvsArray.runtimeconfig.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4\Task001_RvsArray\bin\Debug\net6.0\Task001_RvsArray.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4\Task001_RvsArray\bin\Debug\net6.0\Task001_RvsArray.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4\Task001_RvsArray\obj\Debug\net6.0\Task001_RvsArray.csproj.AssemblyReference.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4\Task001_RvsArray\obj\Debug\net6.0\Task001_RvsArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4\Task001_RvsArray\obj\Debug\net6.0\Task001_RvsArray.AssemblyInfoInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4\Task001_RvsArray\obj\Debug\net6.0\Task001_RvsArray.AssemblyInfo.cs
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4\Task001_RvsArray\obj\Debug\net6.0\Task001_RvsArray.csproj.CoreCompileInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4\Task001_RvsArray\obj\Debug\net6.0\Task001_RvsArray.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4\Task001_RvsArray\obj\Debug\net6.0\refint\Task001_RvsArray.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4\Task001_RvsArray\obj\Debug\net6.0\Task001_RvsArray.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4\Task001_RvsArray\obj\Debug\net6.0\Task001_RvsArray.genruntimeconfig.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4\Task001_RvsArray\obj\Debug\net6.0\ref\Task001_RvsArray.dll
