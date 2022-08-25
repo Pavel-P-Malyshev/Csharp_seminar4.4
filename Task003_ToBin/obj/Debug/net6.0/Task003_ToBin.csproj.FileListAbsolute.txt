@@ -1,0 +1,15 @@
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4\Task003_ToBin\obj\Debug\net6.0\Task003_ToBin.csproj.AssemblyReference.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4\Task003_ToBin\obj\Debug\net6.0\Task003_ToBin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4\Task003_ToBin\obj\Debug\net6.0\Task003_ToBin.AssemblyInfoInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4\Task003_ToBin\obj\Debug\net6.0\Task003_ToBin.AssemblyInfo.cs
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4\Task003_ToBin\obj\Debug\net6.0\Task003_ToBin.csproj.CoreCompileInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4\Task003_ToBin\bin\Debug\net6.0\Task003_ToBin.exe
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4\Task003_ToBin\bin\Debug\net6.0\Task003_ToBin.deps.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4\Task003_ToBin\bin\Debug\net6.0\Task003_ToBin.runtimeconfig.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4\Task003_ToBin\bin\Debug\net6.0\Task003_ToBin.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4\Task003_ToBin\bin\Debug\net6.0\Task003_ToBin.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4\Task003_ToBin\obj\Debug\net6.0\Task003_ToBin.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4\Task003_ToBin\obj\Debug\net6.0\refint\Task003_ToBin.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4\Task003_ToBin\obj\Debug\net6.0\Task003_ToBin.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4\Task003_ToBin\obj\Debug\net6.0\Task003_ToBin.genruntimeconfig.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4\Task003_ToBin\obj\Debug\net6.0\ref\Task003_ToBin.dll
