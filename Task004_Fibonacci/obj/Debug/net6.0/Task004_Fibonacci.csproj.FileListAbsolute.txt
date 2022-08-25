@@ -1,0 +1,15 @@
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4\Task004_Fibonacci\obj\Debug\net6.0\Task004_Fibonacci.csproj.AssemblyReference.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4\Task004_Fibonacci\obj\Debug\net6.0\Task004_Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4\Task004_Fibonacci\obj\Debug\net6.0\Task004_Fibonacci.AssemblyInfoInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4\Task004_Fibonacci\obj\Debug\net6.0\Task004_Fibonacci.AssemblyInfo.cs
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4\Task004_Fibonacci\obj\Debug\net6.0\Task004_Fibonacci.csproj.CoreCompileInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4\Task004_Fibonacci\bin\Debug\net6.0\Task004_Fibonacci.exe
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4\Task004_Fibonacci\bin\Debug\net6.0\Task004_Fibonacci.deps.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4\Task004_Fibonacci\bin\Debug\net6.0\Task004_Fibonacci.runtimeconfig.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4\Task004_Fibonacci\bin\Debug\net6.0\Task004_Fibonacci.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4\Task004_Fibonacci\bin\Debug\net6.0\Task004_Fibonacci.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4\Task004_Fibonacci\obj\Debug\net6.0\Task004_Fibonacci.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4\Task004_Fibonacci\obj\Debug\net6.0\refint\Task004_Fibonacci.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4\Task004_Fibonacci\obj\Debug\net6.0\Task004_Fibonacci.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4\Task004_Fibonacci\obj\Debug\net6.0\Task004_Fibonacci.genruntimeconfig.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.4 -Рекурсия и двумерные массивы\Seminar 4.4\Task004_Fibonacci\obj\Debug\net6.0\ref\Task004_Fibonacci.dll
